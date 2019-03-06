@@ -73,7 +73,7 @@ input, select, textarea {
 
 	body {
 		background-color: black;
-		background-image: url("images/overlay.png"), url("../../images/bg.svg");
+		background-image: url("images/overlay.png"), url("../../images/bg.png");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
