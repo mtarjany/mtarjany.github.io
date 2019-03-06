@@ -1872,8 +1872,8 @@ input, select, textarea {
 				text-align: center;
 				animation: glitch1 2.5s infinite;
 
-				margin-bottom: 0;
-				line-height: 0.05;
+				margin: 0;
+				line-height: 0;
 			}
 
 			h1:nth-child(2) {
