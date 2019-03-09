@@ -150,14 +150,14 @@ input, select, textarea {
 		-webkit-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-ms-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
-		color: #961a1a;
-		text-shadow: 0 0 0.5px rgba(224, 25, 25, 0.25);
+		color: rgba(83, 13, 97, 0.158);
 		text-decoration: none;
-		border-bottom: dotted 1px rgba(143, 22, 38, 0.5);
+		border-bottom: dotted 1px rgba(0, 0, 0, 0.5);
 	}
 
 		a:hover {
-			border-bottom-color: rgba(224, 25, 25, 0.25);
+			color: rgba(0, 0, 0, 0.5);
+			border-bottom-color: rgba(0, 0, 0, 0.5);
 		}
 
 	sub {
@@ -2196,7 +2196,7 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: rgba(241, 8, 8, 0.61);
+				color: rgba(83, 13, 97, 0.158);
 				text-shadow: 0 0 0.5px rgba(69, 200, 159, 0.25);
 				border-bottom-color: rgba(53, 184, 143, 0.5);
 			}
